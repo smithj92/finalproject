@@ -1,0 +1,19 @@
+Backlog:
+
+Sprint Goals
+-Establish cloud hosting resources
+-Set up database 
+-Write front-end code for website user interface
+
+Stretch Goals
+-Fill database with persistent objects
+-Establish API services on Heroku
+-Review front-end code for website user interface
+
+
+Subtasks:
+-Create AWS instance for hosting website
+-Set up MongoDB for use as a database
+-Create persistent objects in database
+-Write HTML for front-end user interface
+-Add CSS to front-end code
