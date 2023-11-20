@@ -1,19 +1,41 @@
 Backlog:
 
+
+SPRINT 2
+
 Sprint Goals
--Establish cloud hosting resources
+-Continue writing front-end code for website
 -Set up database 
--Write front-end code for website user interface
+-Establish API Services
+
+Stretch Goals
+-Fill database with persistent objects
+-Develop backend code for site functionality
+-Review front-end code for website user interface
+
+Subtasks:
+-Write code for other pages within website
+-Find pictures for website use
+-Set up Mongo DB for use
+
+
+
+
+SPRINT 1
+
+Sprint Goals
+-Establish cloud hosting resources - COMPLETE
+-Set up database - INCOMPLETE
+-Write front-end code for website user interface - PARTIALLY COMPLETE
 
 Stretch Goals
 -Fill database with persistent objects
 -Establish API services on Heroku
 -Review front-end code for website user interface
 
-
 Subtasks:
--Create AWS instance for hosting website
--Set up MongoDB for use as a database
--Create persistent objects in database
--Write HTML for front-end user interface
--Add CSS to front-end code
+-Create AWS instance for hosting website - COMPLETE
+-Set up MongoDB for use as a database - INCOMPLETE
+-Create persistent objects in database - INCOMPLETE
+-Write HTML for front-end user interface - PARTIALLY COMPLETE
+-Add CSS to front-end code - PARTIALLY COMPLETE
