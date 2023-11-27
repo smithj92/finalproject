@@ -1,6 +1,26 @@
 Backlog:
 
 
+SPRINT 3
+
+Sprint Goals
+-Develop backend code for site functionality
+-Set up database 
+-Establish API Services
+
+Stretch Goals
+-Fill database with persistent objects
+-Fine-tune front-end code for website
+-Modify UI to be responsive to mobile displays
+
+Subtasks:
+-Write code for form submissions
+-Write code for displaying results
+-Set up Mongo DB for use
+
+
+
+
 SPRINT 2
 
 Sprint Goals
