@@ -11,9 +11,11 @@ Sprint Goals
 Stretch Goals
 -Fill database with persistent objects
 -Fine-tune front-end code for website
+-Modify UI to be responsive to mobile displays
 
 Subtasks:
 -Write code for form submissions
+-Write code for displaying results
 -Set up Mongo DB for use
 
 
