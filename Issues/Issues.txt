@@ -1,6 +1,26 @@
 Backlog:
 
 
+SPRINT 5
+
+Sprint Goals
+-Finish developing backend code for site functionality
+-Add login functionality
+-Refine User Interface
+
+Stretch Goals
+-Fill database with persistent objects
+-Start adding additional stretch features
+-Modify UI to be responsive to mobile displays
+
+Subtasks:
+-Finish setting up API Layer
+-Add input functionality into UI
+-Code login feature
+
+
+
+
 SPRINT 4
 
 Sprint Goals
