@@ -1,11 +1,11 @@
 const mongoose = require('mongoose')
 
-const subscriberSchema = new mongoose.Schema({
+const userSchema = new mongoose.Schema({
     name: {
         type: String,
         required: true
     },
-    subscriberToChannel: {
+    subscribedToChannel: {
         type: String,
         required: true
     },
@@ -16,4 +16,4 @@ const subscriberSchema = new mongoose.Schema({
     }
 })
 
-modules.exports = mongoose.model('Subscriber', subscriberSchema)
+modules.exports = mongoose.model('User', userSchema)
