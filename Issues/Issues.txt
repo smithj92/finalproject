@@ -1,5 +1,24 @@
 Backlog:
 
+SPRINT 6
+
+Sprint Goals
+-Modify UI to be responsive to mobile displays
+-Add login functionality
+-Finalize API functionality
+
+Stretch Goals
+-Refine UI for more modern look
+-Start adding additional stretch features
+-Add functionality for "Contact Us" page
+
+Subtasks:
+-Finish setting up API Layer
+-Add input functionality into UI
+-Code login feature
+
+
+
 
 SPRINT 5
 
